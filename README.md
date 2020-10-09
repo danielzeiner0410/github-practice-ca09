@@ -91,3 +91,4 @@
 |59|Madhur Agarwal|4|agarwalmadhur27|<https://github.com/agarwalmadhur27/Madhur_website>|<https://madhur-agarwal.netlify.app/>|2020-10-09|
 |60|Deepak Guneja|35|deepak-guneja|<https://github.com/deepak-guneja/my_website>|<https://deepak-guneja.netlify.app/>|2020-10-09|
 |61| Elia Waidele | 17 | ewaidele |<https://github.com/ewaidele/my_website> | <https://eliawaidele.netlify.app> |2020-10-09|
+|62| Daniel Zeiner | 19 | danielzeiner0410 |<https://github.com/danielzeiner0410/website1> | <https://zealous-hamilton-95c6d9.netlify.app/> |2020-10-09|
